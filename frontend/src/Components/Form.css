@@ -1,0 +1,22 @@
+.Form {
+    margin-top: 100px;
+    margin-left: 30%;
+    margin-right: 30%;
+    padding: 3%;
+    border: 3px solid green;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.hline{
+    border: 1px solid green;
+}
+
+.heading {
+    color: green;
+}
+
+.Submit {
+   text-align: center;
+   padding-top: 20px;
+}
